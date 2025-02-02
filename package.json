@@ -1,0 +1,25 @@
+{
+  "name": "registro-de-maestros",
+  "version": "1.0.0",
+  "description": "Registrio de maestros, dandolos de alta etc",
+  "main": "app/index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlonsoVA/Registro-de-Maestros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlonsoVA/Registro-de-Maestros/issues"
+  },
+  "homepage": "https://github.com/AlonsoVA/Registro-de-Maestros#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
